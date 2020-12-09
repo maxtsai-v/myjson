@@ -1,12 +1,33 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "world"
-    }
-  ]
+  "data": {
+    "articleList": [
+      {
+        "title": "123",
+        "author": "Steve",
+        "releaseTime": "20201209",
+        "category": "war",
+        "status": "僅能轉載",
+        "usedTimes": "5",
+        "action": "取用"
+      },
+      {
+        "title": "456",
+        "author": "Thor",
+        "releaseTime": "20201205",
+        "category": "神話",
+        "status": "可改標，可改內容",
+        "usedTimes": "25",
+        "action": "取用"
+      },
+      {
+        "title": "789",
+        "author": "Natasha",
+        "releaseTime": "20201201",
+        "category": "諜報",
+        "status": "可改標",
+        "usedTimes": "15",
+        "action": "取用"
+      }
+    ]
+  }
 }
