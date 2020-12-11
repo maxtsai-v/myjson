@@ -137,5 +137,57 @@
       "usedDate": "20201211",
       "profit": "250"
     }
+  ],
+  "issueList": [
+    {
+      "title": "舊蘇聯的秘密情報員",
+      "author": "Natasha",
+      "category": "諜報",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    }
   ]
 }
