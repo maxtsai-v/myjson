@@ -196,7 +196,7 @@
       "belongToArticle": "史蒂夫羅傑斯個人傳記",
       "category": "戰爭",
       "author": "Steve",
-      "releaseData": "20201214",
+      "releaseDate": "20201214",
       "status": "不可修改",
       "limited": "今周刊"
     },
@@ -205,7 +205,7 @@
       "belongToArticle": "北歐神話",
       "category": "神話",
       "author": "Thor",
-      "releaseData": "20201213",
+      "releaseDate": "20201213",
       "status": "可改標&內容",
       "limited": "關鍵評論網"
     },
@@ -214,7 +214,7 @@
       "belongToArticle": "如何當主管",
       "category": "管理",
       "author": "Fury",
-      "releaseData": "20201212",
+      "releaseDate": "20201212",
       "status": "可改標",
       "limited": "104職涯診所"
     },
@@ -223,7 +223,7 @@
       "belongToArticle": "情緒管理",
       "category": "心理學",
       "author": "Bruce",
-      "releaseData": "20201211",
+      "releaseDate": "20201211",
       "status": "可改標",
       "limited": "今周刊"
     },
@@ -232,7 +232,7 @@
       "belongToArticle": "財富管理",
       "category": "理財",
       "author": "Tony",
-      "releaseData": "20201210",
+      "releaseDate": "20201210",
       "status": "轉載",
       "limited": "故事"
     }
