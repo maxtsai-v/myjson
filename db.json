@@ -236,5 +236,40 @@
       "status": "轉載",
       "limited": "故事"
     }
+  ],
+  "beenExpressedList": [
+    {
+      "usedDate": "20201201",
+      "usedMedia": "風傳媒",
+      "usedTitle": "二戰老兵的回憶錄",
+      "belongToArticle": "史蒂夫羅傑斯個人傳記",
+      "package": "單次",
+      "releaseDate": "20201214",
+      "statusOnUsed": "不可修改",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    },
+    {
+      "usedDate": "20201202",
+      "usedMedia": "蘋果日報",
+      "usedTitle": "如何不生氣",
+      "belongToArticle": "情緒管理",
+      "package": "訂閱",
+      "releaseDate": "20201215",
+      "statusOnUsed": "可修改",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    },
+    {
+      "usedDate": "20201201",
+      "usedMedia": "關鍵評論網",
+      "usedTitle": "輻射的危險",
+      "belongToArticle": "布魯斯的實驗室",
+      "package": "免費",
+      "releaseDate": "20201216",
+      "statusOnUsed": "可改標",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    }
   ]
 }
