@@ -271,5 +271,37 @@
       "usedAtUrl": "http://example.com",
       "otherOption": "申訴"
     }
+  ],
+  "profit": [
+    {
+      "usedDate": "20201201",
+      "usedMedia": "蘋果日報",
+      "usedTitle": "二戰老兵的回憶錄",
+      "profit": "500"
+    },
+    {
+      "usedDate": "20201202",
+      "usedMedia": "風傳媒",
+      "usedTitle": "如何不生氣",
+      "profit": "700"
+    },
+    {
+      "usedDate": "20201203",
+      "usedMedia": "關鍵評論網",
+      "usedTitle": "輻射的危險",
+      "profit": "200"
+    },
+    {
+      "usedDate": "20201204",
+      "usedMedia": "今周刊",
+      "usedTitle": "理財好處多",
+      "profit": "600"
+    },
+    {
+      "usedDate": "20201205",
+      "usedMedia": "故事",
+      "usedTitle": "月球登陸",
+      "profit": "1500"
+    }
   ]
 }
