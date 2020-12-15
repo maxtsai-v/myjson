@@ -189,5 +189,52 @@
       "request": "減少修改內容幅度",
       "progress": "未處理"
     }
+  ],
+  "expressList": [
+    {
+      "title": "二戰老兵的回憶錄",
+      "belongToArticle": "史蒂夫羅傑斯個人傳記",
+      "category": "戰爭",
+      "author": "Steve",
+      "releaseData": "20201214",
+      "status": "不可修改",
+      "limited": "今周刊"
+    },
+    {
+      "title": "來自阿斯嘉的神諭",
+      "belongToArticle": "北歐神話",
+      "category": "神話",
+      "author": "Thor",
+      "releaseData": "20201213",
+      "status": "可改標&內容",
+      "limited": "關鍵評論網"
+    },
+    {
+      "title": "分享秘密不見得是好事",
+      "belongToArticle": "如何當主管",
+      "category": "管理",
+      "author": "Fury",
+      "releaseData": "20201212",
+      "status": "可改標",
+      "limited": "104職涯診所"
+    },
+    {
+      "title": "如何不生氣",
+      "belongToArticle": "情緒管理",
+      "category": "心理學",
+      "author": "Bruce",
+      "releaseData": "20201211",
+      "status": "可改標",
+      "limited": "今周刊"
+    },
+    {
+      "title": "手握金湯匙",
+      "belongToArticle": "財富管理",
+      "category": "理財",
+      "author": "Tony",
+      "releaseData": "20201210",
+      "status": "轉載",
+      "limited": "故事"
+    }
   ]
 }
