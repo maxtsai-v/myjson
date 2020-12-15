@@ -245,7 +245,7 @@
       "belongToArticle": "史蒂夫羅傑斯個人傳記",
       "package": "單次",
       "releaseDate": "20201214",
-      "statusOnUsed": "不可修改",
+      "statusWhenUsed": "不可修改",
       "usedAtUrl": "http://example.com",
       "otherOption": "申訴"
     },
@@ -256,7 +256,7 @@
       "belongToArticle": "情緒管理",
       "package": "訂閱",
       "releaseDate": "20201215",
-      "statusOnUsed": "可修改",
+      "statusWhenUsed": "可修改",
       "usedAtUrl": "http://example.com",
       "otherOption": "申訴"
     },
@@ -267,7 +267,7 @@
       "belongToArticle": "布魯斯的實驗室",
       "package": "免費",
       "releaseDate": "20201216",
-      "statusOnUsed": "可改標",
+      "statusWhenUsed": "可改標",
       "usedAtUrl": "http://example.com",
       "otherOption": "申訴"
     }
