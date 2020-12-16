@@ -95,5 +95,43 @@
       "percentageProfit": "70%",
       "advancedOption": "編輯"
     }
+  ],
+  "mediaManagement": [
+    {
+      "mediaId": "1",
+      "mediaName": "風傳媒",
+      "joinedExpressDate": "2020-01-01",
+      "usedArticleCounts": "100",
+      "cancelledExpressDate": "2021-01-01",
+      "blackList": "No",
+      "issuedCounts": "5",
+      "percentageProfit": "20%",
+      "totalProfit": "5000",
+      "advancedOption": "編輯"
+    },
+    {
+      "mediaId": "2",
+      "mediaName": "故事",
+      "joinedExpressDate": "2020-02-02",
+      "usedArticleCounts": "200",
+      "cancelledExpressDate": "2021-02-02",
+      "blackList": "yes",
+      "issuedCounts": "50",
+      "percentageProfit": "10%",
+      "totalProfit": "500",
+      "advancedOption": "編輯"
+    },
+    {
+      "mediaId": "3",
+      "mediaName": "關鍵評論網",
+      "joinedExpressDate": "2020-03-03",
+      "usedArticleCounts": "500",
+      "cancelledExpressDate": "2021-03-03",
+      "blackList": "no",
+      "issuedCounts": "1",
+      "percentageProfit": "30%",
+      "totalProfit": "50000",
+      "advancedOption": "編輯"
+    }
   ]
 }
