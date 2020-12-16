@@ -54,5 +54,46 @@
       "profit": "5000",
       "advancedOption": "編輯"
     }
+  ],
+  "authorManagement": [
+    {
+      "author": "Steve",
+      "joinedExpressDate": "2020-01-01",
+      "articleCounts": "25",
+      "cancelExpressDate": "2021-01-01",
+      "expressCounts": "50",
+      "limitedMediaCounts": "12",
+      "exposedCounts": "100",
+      "clickCounts": "1000",
+      "totalProfit": "50000",
+      "percentageProfit": "75%",
+      "advancedOption": "編輯"
+    },
+    {
+      "author": "Natasha",
+      "joinedExpressDate": "2020-02-02",
+      "articleCounts": "50",
+      "cancelExpressDate": "2021-02-02",
+      "expressCounts": "1000",
+      "limitedMediaCounts": "5",
+      "exposedCounts": "5000",
+      "clickCounts": "10000",
+      "totalProfit": "100000",
+      "percentageProfit": "80%",
+      "advancedOption": "編輯"
+    },
+    {
+      "author": "Bruce",
+      "joinedExpressDate": "2020-03-03",
+      "articleCounts": "150",
+      "cancelExpressDate": "2021-03-03",
+      "expressCounts": "2000",
+      "limitedMediaCounts": "1",
+      "exposedCounts": "10000",
+      "clickCounts": "50000",
+      "totalProfit": "124000",
+      "percentageProfit": "70%",
+      "advancedOption": "編輯"
+    }
   ]
 }
