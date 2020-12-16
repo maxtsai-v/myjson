@@ -112,5 +112,31 @@
       "usedTitle": "月球登陸",
       "profit": "1500"
     }
+  ],
+  "changeRecord": [
+    {
+      "changeDate": "2020-08-20",
+      "changeSubject": "變更直送文章授權範圍",
+      "title": "二戰老兵的回憶錄",
+      "changeContent": "同意轉載,僅能修改標題,不可修改內容"
+    },
+    {
+      "changeDate": "2020-08-21",
+      "changeSubject": "變更授權媒體",
+      "title": "來自阿斯嘉的神諭",
+      "changeContent": "屏蔽 今周刊"
+    },
+    {
+      "changeDate": "2020-08-22",
+      "changeSubject": "直送中文章申訴",
+      "title": "分享秘密不見得是好事",
+      "changeContent": "屏蔽 關鍵評論網"
+    },
+    {
+      "changeDate": "2020-08-23",
+      "changeSubject": "加入方格子直送計畫",
+      "title": "如何不生氣",
+      "changeContent": "加入成功"
+    }
   ]
 }
