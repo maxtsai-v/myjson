@@ -133,5 +133,43 @@
       "totalProfit": "50000",
       "advancedOption": "編輯"
     }
+  ],
+  "profitManagement": [
+    {
+      "title": "二戰老兵回憶錄",
+      "author": "Steve",
+      "expressedDate": "2020-01-01",
+      "totalExpose": "500",
+      "totalClicks": "1500",
+      "adsProfit": "50000",
+      "platformProfit": "5000",
+      "authorProfit": "40000",
+      "mediaProfit": "5000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "舊蘇聯的秘密情報員",
+      "author": "Natasha",
+      "expressedDate": "2020-02-02",
+      "totalExpose": "1500",
+      "totalClicks": "2500",
+      "adsProfit": "30000",
+      "platformProfit": "10000",
+      "authorProfit": "10000",
+      "mediaProfit": "10000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "輻射的危險",
+      "author": "Bruce",
+      "expressedDate": "2020-03-03",
+      "totalExpose": "5500",
+      "totalClicks": "5500",
+      "adsProfit": "100000",
+      "platformProfit": "30000",
+      "authorProfit": "50000",
+      "mediaProfit": "20000",
+      "advancedOption": "結算"
+    }
   ]
 }
