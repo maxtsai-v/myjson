@@ -1,311 +1,193 @@
 {
-  "media": {
-    "articleList": [
-      {
-        "title": "二戰老兵的回憶錄",
-        "author": "Steve",
-        "releaseDate": "20201209",
-        "category": "戰爭",
-        "status": "轉載",
-        "usedTimes": "5",
-        "action": "取用"
-      },
-      {
-        "title": "來自阿斯嘉的神諭",
-        "author": "Thor",
-        "releaseDate": "20201205",
-        "category": "神話",
-        "status": "可修改",
-        "usedTimes": "25",
-        "action": "取用"
-      },
-      {
-        "title": "舊蘇聯的秘密情報員",
-        "author": "Natasha",
-        "releaseDate": "20201201",
-        "category": "諜報",
-        "status": "可改標",
-        "usedTimes": "15",
-        "action": "取用"
-      },
-      {
-        "title": "如何不生氣",
-        "author": "Bruce",
-        "releaseDate": "20201110",
-        "category": "心理",
-        "status": "可改標",
-        "usedTimes": "105",
-        "action": "取用"
-      },
-      {
-        "title": "手握金湯匙",
-        "author": "Tony",
-        "releaseDate": "20080430",
-        "category": "理財",
-        "status": "轉載",
-        "usedTimes": "999",
-        "action": "取用"
-      },
-      {
-        "title": "百分百",
-        "author": "Clint",
-        "releaseDate": "20201210",
-        "category": "運動",
-        "status": "可改標",
-        "usedTimes": "45",
-        "action": "取用"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "releaseDate": "20200101",
-        "category": "科學",
-        "status": "不可修改",
-        "usedTimes": "45",
-        "action": "取用"
-      },
-      {
-        "title": "穿梭自如的原理",
-        "author": "Vision",
-        "releaseDate": "20200202",
-        "category": "科幻",
-        "status": "不可修改",
-        "usedTimes": "95",
-        "action": "取用"
-      },
-      {
-        "title": "現實與假象",
-        "author": "Wanda",
-        "releaseDate": "20200505",
-        "category": "科幻心理學",
-        "status": "轉載",
-        "usedTimes": "250",
-        "action": "取用"
-      },
-      {
-        "title": "分享秘密不見得是好事",
-        "author": "Fury",
-        "releaseDate": "19800103",
-        "category": "管理",
-        "status": "不可修改",
-        "usedTimes": "300",
-        "action": "取用"
-      }
-    ],
-    "usedRecord": [
-      {
-        "title": "二戰老兵的回憶錄",
-        "author": "Steve",
-        "releaseDate": "20201209",
-        "category": "戰爭",
-        "status": "轉載",
-        "usedDate": "20201211",
-        "profit": "500"
-      },
-      {
-        "title": "來自阿斯嘉的神諭",
-        "author": "Thor",
-        "releaseDate": "20201208",
-        "category": "神話",
-        "status": "不可修改",
-        "usedDate": "20201212",
-        "profit": "1500"
-      },
-      {
-        "title": "分享秘密不見得是好事",
-        "author": "Fury",
-        "releaseDate": "20201207",
-        "category": "管理",
-        "status": "轉載",
-        "usedDate": "20201213",
-        "profit": "450"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "releaseDate": "20201206",
-        "category": "科學",
-        "status": "轉載",
-        "usedDate": "20201214",
-        "profit": "3000"
-      },
-      {
-        "title": "舊蘇聯的秘密情報員",
-        "author": "Natasha",
-        "releaseDate": "20201205",
-        "category": "諜報",
-        "status": "轉載",
-        "usedDate": "20201215",
-        "profit": "250"
-      }
-    ],
-    "issueList": [
-      {
-        "title": "舊蘇聯的秘密情報員",
-        "author": "Natasha",
-        "category": "諜報",
-        "status": "轉載",
-        "usedDate": "20201211",
-        "reason": "修改太多",
-        "request": "減少修改內容幅度",
-        "progress": "未處理"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "category": "科學",
-        "status": "轉載",
-        "usedDate": "20201212",
-        "reason": "修改太多",
-        "request": "減少修改內容幅度",
-        "progress": "未處理"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "category": "科學",
-        "status": "轉載",
-        "usedDate": "20201213",
-        "reason": "修改太多",
-        "request": "減少修改內容幅度",
-        "progress": "未處理"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "category": "科學",
-        "status": "轉載",
-        "usedDate": "20201214",
-        "reason": "修改太多",
-        "request": "減少修改內容幅度",
-        "progress": "未處理"
-      },
-      {
-        "title": "量子閘道的另一端",
-        "author": "Scott",
-        "category": "科學",
-        "status": "轉載",
-        "usedDate": "20201215",
-        "reason": "修改太多",
-        "request": "減少修改內容幅度",
-        "progress": "未處理"
-      }
-    ]
-  },
-  "myExpress": {
-    "myExpressList": [
-      {
-        "title": "二戰老兵的回憶錄",
-        "belongToArticle": "史蒂夫羅傑斯個人傳記",
-        "category": "戰爭",
-        "author": "Steve",
-        "releaseDate": "20201214",
-        "status": "不可修改",
-        "limited": "今周刊"
-      },
-      {
-        "title": "來自阿斯嘉的神諭",
-        "belongToArticle": "北歐神話",
-        "category": "神話",
-        "author": "Thor",
-        "releaseDate": "20201213",
-        "status": "可改標&內容",
-        "limited": "關鍵評論網"
-      },
-      {
-        "title": "分享秘密不見得是好事",
-        "belongToArticle": "如何當主管",
-        "category": "管理",
-        "author": "Fury",
-        "releaseDate": "20201212",
-        "status": "可改標",
-        "limited": "104職涯診所"
-      },
-      {
-        "title": "如何不生氣",
-        "belongToArticle": "情緒管理",
-        "category": "心理學",
-        "author": "Bruce",
-        "releaseDate": "20201211",
-        "status": "可改標",
-        "limited": "今周刊"
-      },
-      {
-        "title": "手握金湯匙",
-        "belongToArticle": "財富管理",
-        "category": "理財",
-        "author": "Tony",
-        "releaseDate": "20201210",
-        "status": "轉載",
-        "limited": "故事"
-      }
-    ],
-    "beenExpressedList": [
-      {
-        "usedDate": "20201201",
-        "usedMedia": "風傳媒",
-        "usedTitle": "二戰老兵的回憶錄",
-        "belongToArticle": "史蒂夫羅傑斯個人傳記",
-        "package": "單次",
-        "releaseDate": "20201214",
-        "statusWhenUsed": "不可修改",
-        "usedAtUrl": "http://example.com",
-        "otherOption": "申訴"
-      },
-      {
-        "usedDate": "20201202",
-        "usedMedia": "蘋果日報",
-        "usedTitle": "如何不生氣",
-        "belongToArticle": "情緒管理",
-        "package": "訂閱",
-        "releaseDate": "20201215",
-        "statusWhenUsed": "可修改",
-        "usedAtUrl": "http://example.com",
-        "otherOption": "申訴"
-      },
-      {
-        "usedDate": "20201201",
-        "usedMedia": "關鍵評論網",
-        "usedTitle": "輻射的危險",
-        "belongToArticle": "布魯斯的實驗室",
-        "package": "免費",
-        "releaseDate": "20201216",
-        "statusWhenUsed": "可改標",
-        "usedAtUrl": "http://example.com",
-        "otherOption": "申訴"
-      }
-    ],
-    "profit": [
-      {
-        "usedDate": "20201201",
-        "usedMedia": "蘋果日報",
-        "usedTitle": "二戰老兵的回憶錄",
-        "profit": "500"
-      },
-      {
-        "usedDate": "20201202",
-        "usedMedia": "風傳媒",
-        "usedTitle": "如何不生氣",
-        "profit": "700"
-      },
-      {
-        "usedDate": "20201203",
-        "usedMedia": "關鍵評論網",
-        "usedTitle": "輻射的危險",
-        "profit": "200"
-      },
-      {
-        "usedDate": "20201204",
-        "usedMedia": "今周刊",
-        "usedTitle": "理財好處多",
-        "profit": "600"
-      },
-      {
-        "usedDate": "20201205",
-        "usedMedia": "故事",
-        "usedTitle": "月球登陸",
-        "profit": "1500"
-      }
-    ]
-  }
+  "articleList": [
+    {
+      "title": "二戰老兵的回憶錄",
+      "author": "Steve",
+      "releaseDate": "20201209",
+      "category": "戰爭",
+      "status": "轉載",
+      "usedTimes": "5",
+      "action": "取用"
+    },
+    {
+      "title": "來自阿斯嘉的神諭",
+      "author": "Thor",
+      "releaseDate": "20201205",
+      "category": "神話",
+      "status": "可修改",
+      "usedTimes": "25",
+      "action": "取用"
+    },
+    {
+      "title": "舊蘇聯的秘密情報員",
+      "author": "Natasha",
+      "releaseDate": "20201201",
+      "category": "諜報",
+      "status": "可改標",
+      "usedTimes": "15",
+      "action": "取用"
+    },
+    {
+      "title": "如何不生氣",
+      "author": "Bruce",
+      "releaseDate": "20201110",
+      "category": "心理",
+      "status": "可改標",
+      "usedTimes": "105",
+      "action": "取用"
+    },
+    {
+      "title": "手握金湯匙",
+      "author": "Tony",
+      "releaseDate": "20080430",
+      "category": "理財",
+      "status": "轉載",
+      "usedTimes": "999",
+      "action": "取用"
+    },
+    {
+      "title": "百分百",
+      "author": "Clint",
+      "releaseDate": "20201210",
+      "category": "運動",
+      "status": "可改標",
+      "usedTimes": "45",
+      "action": "取用"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "releaseDate": "20200101",
+      "category": "科學",
+      "status": "不可修改",
+      "usedTimes": "45",
+      "action": "取用"
+    },
+    {
+      "title": "穿梭自如的原理",
+      "author": "Vision",
+      "releaseDate": "20200202",
+      "category": "科幻",
+      "status": "不可修改",
+      "usedTimes": "95",
+      "action": "取用"
+    },
+    {
+      "title": "現實與假象",
+      "author": "Wanda",
+      "releaseDate": "20200505",
+      "category": "科幻心理學",
+      "status": "轉載",
+      "usedTimes": "250",
+      "action": "取用"
+    },
+    {
+      "title": "分享秘密不見得是好事",
+      "author": "Fury",
+      "releaseDate": "19800103",
+      "category": "管理",
+      "status": "不可修改",
+      "usedTimes": "300",
+      "action": "取用"
+    }
+  ],
+  "usedRecord": [
+    {
+      "title": "二戰老兵的回憶錄",
+      "author": "Steve",
+      "releaseDate": "20201209",
+      "category": "戰爭",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "profit": "500"
+    },
+    {
+      "title": "來自阿斯嘉的神諭",
+      "author": "Thor",
+      "releaseDate": "20201208",
+      "category": "神話",
+      "status": "不可修改",
+      "usedDate": "20201212",
+      "profit": "1500"
+    },
+    {
+      "title": "分享秘密不見得是好事",
+      "author": "Fury",
+      "releaseDate": "20201207",
+      "category": "管理",
+      "status": "轉載",
+      "usedDate": "20201213",
+      "profit": "450"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "releaseDate": "20201206",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201214",
+      "profit": "3000"
+    },
+    {
+      "title": "舊蘇聯的秘密情報員",
+      "author": "Natasha",
+      "releaseDate": "20201205",
+      "category": "諜報",
+      "status": "轉載",
+      "usedDate": "20201215",
+      "profit": "250"
+    }
+  ],
+  "issueList": [
+    {
+      "title": "舊蘇聯的秘密情報員",
+      "author": "Natasha",
+      "category": "諜報",
+      "status": "轉載",
+      "usedDate": "20201211",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201212",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201213",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201214",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    },
+    {
+      "title": "量子閘道的另一端",
+      "author": "Scott",
+      "category": "科學",
+      "status": "轉載",
+      "usedDate": "20201215",
+      "reason": "修改太多",
+      "request": "減少修改內容幅度",
+      "progress": "未處理"
+    }
+  ]
 }
