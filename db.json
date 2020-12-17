@@ -206,6 +206,78 @@
       "authorProfit": "500000",
       "mediaProfit": "200000",
       "advancedOption": "結算"
+    },
+    {
+      "title": "彩虹橋的運作原理",
+      "author": "Thor",
+      "expressedDate": "2020-05-05",
+      "totalExpose": "500",
+      "totalClicks": "1500",
+      "adsProfit": "40000",
+      "platformProfit": "10000",
+      "authorProfit": "30000",
+      "mediaProfit": "20000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "百分百命中紅心",
+      "author": "Clint",
+      "expressedDate": "2020-06-06",
+      "totalExpose": "2500",
+      "totalClicks": "8500",
+      "adsProfit": "34000",
+      "platformProfit": "4000",
+      "authorProfit": "20000",
+      "mediaProfit": "10000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "量子位移",
+      "author": "Vision",
+      "expressedDate": "2020-07-07",
+      "totalExpose": "12500",
+      "totalClicks": "18500",
+      "adsProfit": "54000",
+      "platformProfit": "14000",
+      "authorProfit": "30000",
+      "mediaProfit": "10000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "無限想像力",
+      "author": "Wanda",
+      "expressedDate": "2020-08-08",
+      "totalExpose": "42500",
+      "totalClicks": "68500",
+      "adsProfit": "82000",
+      "platformProfit": "12000",
+      "authorProfit": "50000",
+      "mediaProfit": "20000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "分散式管理",
+      "author": "Fury",
+      "expressedDate": "2020-09-09",
+      "totalExpose": "12500",
+      "totalClicks": "45000",
+      "adsProfit": "31000",
+      "platformProfit": "11000",
+      "authorProfit": "10000",
+      "mediaProfit": "10000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "詐欺師的最高境界",
+      "author": "Loki",
+      "expressedDate": "2020-10-10",
+      "totalExpose": "52500",
+      "totalClicks": "55000",
+      "adsProfit": "51600",
+      "platformProfit": "11600",
+      "authorProfit": "30000",
+      "mediaProfit": "10000",
+      "advancedOption": "結算"
     }
   ]
 }
