@@ -127,10 +127,34 @@
       "joinedExpressDate": "2020-03-03",
       "usedArticleCounts": "500",
       "cancelledExpressDate": "2021-03-03",
-      "blackList": "no",
+      "blackList": "No",
       "issuedCounts": "1",
       "percentageProfit": "30%",
       "totalProfit": "50000",
+      "advancedOption": "編輯"
+    },
+    {
+      "mediaId": "4",
+      "mediaName": "經濟日報",
+      "joinedExpressDate": "2020-04-04",
+      "usedArticleCounts": "125",
+      "cancelledExpressDate": "2021-04-04",
+      "blackList": "No",
+      "issuedCounts": "2",
+      "percentageProfit": "40%",
+      "totalProfit": "70000",
+      "advancedOption": "編輯"
+    },
+    {
+      "mediaId": "5",
+      "mediaName": "工商日報",
+      "joinedExpressDate": "2020-05-05",
+      "usedArticleCounts": "245",
+      "cancelledExpressDate": "2021-05-05",
+      "blackList": "No",
+      "issuedCounts": "4",
+      "percentageProfit": "30%",
+      "totalProfit": "30000",
       "advancedOption": "編輯"
     }
   ],
@@ -169,6 +193,18 @@
       "platformProfit": "30000",
       "authorProfit": "50000",
       "mediaProfit": "20000",
+      "advancedOption": "結算"
+    },
+    {
+      "title": "富可敵國",
+      "author": "Tony",
+      "expressedDate": "2020-04-04",
+      "totalExpose": "15500",
+      "totalClicks": "15500",
+      "adsProfit": "1000000",
+      "platformProfit": "300000",
+      "authorProfit": "500000",
+      "mediaProfit": "200000",
       "advancedOption": "結算"
     }
   ]
