@@ -1,283 +1,142 @@
 {
-  "adminExpressList": [
+  "myExpressList": [
     {
-      "title": "二戰老兵回憶錄",
+      "title": "二戰老兵的回憶錄",
       "belongToArticle": "史蒂夫羅傑斯個人傳記",
-      "purchaseType": "付費",
+      "category": "戰爭",
       "author": "Steve",
-      "releaseDate": "2020-05-05",
-      "status": "不可更改",
-      "limitedMedia": "關鍵評論網",
-      "usedCounts": "5",
-      "usedDate": "2020-06-06",
-      "usedByMedia": "風傳媒",
-      "usedUrl": "http://www.usedurl.com",
-      "usedCode": "XTZ67T",
-      "expose": "12",
-      "click": "50",
-      "profit": "1200",
-      "advancedOption": "編輯"
+      "releaseDate": "20201214",
+      "status": "不可修改",
+      "limited": "今周刊"
     },
     {
-      "title": "輻射的危險",
-      "belongToArticle": "布魯斯的實驗室",
-      "purchaseType": "免費",
-      "author": "Bruce",
-      "releaseDate": "2020-05-06",
-      "status": "可改標",
-      "limitedMedia": "風傳媒",
-      "usedCounts": "15",
-      "usedDate": "2020-06-07",
-      "usedByMedia": "關鍵評論網 ",
-      "usedUrl": "http://www.brucelab.com",
-      "usedCode": "KZNM90A",
-      "expose": "500",
-      "click": "2100",
-      "profit": "500",
-      "advancedOption": "編輯"
-    },
-    {
-      "title": "舊蘇聯的秘密情報員",
-      "belongToArticle": "鐵幕蘇聯",
-      "purchaseType": "付費",
-      "author": "Natasha",
-      "releaseDate": "2020-05-07",
-      "status": "可改標",
-      "limitedMedia": "104職涯診所",
-      "usedCounts": "15",
-      "usedDate": "2020-06-08",
-      "usedByMedia": "故事 ",
-      "usedUrl": "http://www.natasha.com",
-      "usedCode": "LOQV14M",
-      "expose": "1500",
-      "click": "2000",
-      "profit": "5000",
-      "advancedOption": "編輯"
-    }
-  ],
-  "authorManagement": [
-    {
-      "author": "Steve",
-      "joinedExpressDate": "2020-01-01",
-      "articleCounts": "25",
-      "cancelExpressDate": "2021-01-01",
-      "expressCounts": "50",
-      "limitedMediaCounts": "12",
-      "exposedCounts": "100",
-      "clickCounts": "1000",
-      "totalProfit": "50000",
-      "percentageProfit": "75%",
-      "advancedOption": "編輯"
-    },
-    {
-      "author": "Natasha",
-      "joinedExpressDate": "2020-02-02",
-      "articleCounts": "50",
-      "cancelExpressDate": "2021-02-02",
-      "expressCounts": "1000",
-      "limitedMediaCounts": "5",
-      "exposedCounts": "5000",
-      "clickCounts": "10000",
-      "totalProfit": "100000",
-      "percentageProfit": "80%",
-      "advancedOption": "編輯"
-    },
-    {
-      "author": "Bruce",
-      "joinedExpressDate": "2020-03-03",
-      "articleCounts": "150",
-      "cancelExpressDate": "2021-03-03",
-      "expressCounts": "2000",
-      "limitedMediaCounts": "1",
-      "exposedCounts": "10000",
-      "clickCounts": "50000",
-      "totalProfit": "124000",
-      "percentageProfit": "70%",
-      "advancedOption": "編輯"
-    }
-  ],
-  "mediaManagement": [
-    {
-      "mediaId": "1",
-      "mediaName": "風傳媒",
-      "joinedExpressDate": "2020-01-01",
-      "usedArticleCounts": "100",
-      "cancelledExpressDate": "2021-01-01",
-      "blackList": "No",
-      "issuedCounts": "5",
-      "percentageProfit": "20%",
-      "totalProfit": "5000",
-      "advancedOption": "編輯"
-    },
-    {
-      "mediaId": "2",
-      "mediaName": "故事",
-      "joinedExpressDate": "2020-02-02",
-      "usedArticleCounts": "200",
-      "cancelledExpressDate": "2021-02-02",
-      "blackList": "yes",
-      "issuedCounts": "50",
-      "percentageProfit": "10%",
-      "totalProfit": "500",
-      "advancedOption": "編輯"
-    },
-    {
-      "mediaId": "3",
-      "mediaName": "關鍵評論網",
-      "joinedExpressDate": "2020-03-03",
-      "usedArticleCounts": "500",
-      "cancelledExpressDate": "2021-03-03",
-      "blackList": "No",
-      "issuedCounts": "1",
-      "percentageProfit": "30%",
-      "totalProfit": "50000",
-      "advancedOption": "編輯"
-    },
-    {
-      "mediaId": "4",
-      "mediaName": "經濟日報",
-      "joinedExpressDate": "2020-04-04",
-      "usedArticleCounts": "125",
-      "cancelledExpressDate": "2021-04-04",
-      "blackList": "No",
-      "issuedCounts": "2",
-      "percentageProfit": "40%",
-      "totalProfit": "70000",
-      "advancedOption": "編輯"
-    },
-    {
-      "mediaId": "5",
-      "mediaName": "工商日報",
-      "joinedExpressDate": "2020-05-05",
-      "usedArticleCounts": "245",
-      "cancelledExpressDate": "2021-05-05",
-      "blackList": "No",
-      "issuedCounts": "4",
-      "percentageProfit": "30%",
-      "totalProfit": "30000",
-      "advancedOption": "編輯"
-    }
-  ],
-  "profitManagement": [
-    {
-      "title": "二戰老兵回憶錄",
-      "author": "Steve",
-      "expressedDate": "2020-01-01",
-      "totalExpose": "500",
-      "totalClicks": "1500",
-      "adsProfit": "50000",
-      "platformProfit": "5000",
-      "authorProfit": "40000",
-      "mediaProfit": "5000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "舊蘇聯的秘密情報員",
-      "author": "Natasha",
-      "expressedDate": "2020-02-02",
-      "totalExpose": "1500",
-      "totalClicks": "2500",
-      "adsProfit": "30000",
-      "platformProfit": "10000",
-      "authorProfit": "10000",
-      "mediaProfit": "10000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "輻射的危險",
-      "author": "Bruce",
-      "expressedDate": "2020-03-03",
-      "totalExpose": "5500",
-      "totalClicks": "5500",
-      "adsProfit": "100000",
-      "platformProfit": "30000",
-      "authorProfit": "50000",
-      "mediaProfit": "20000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "富可敵國",
-      "author": "Tony",
-      "expressedDate": "2020-04-04",
-      "totalExpose": "15500",
-      "totalClicks": "15500",
-      "adsProfit": "1000000",
-      "platformProfit": "300000",
-      "authorProfit": "500000",
-      "mediaProfit": "200000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "彩虹橋的運作原理",
+      "title": "來自阿斯嘉的神諭",
+      "belongToArticle": "北歐神話",
+      "category": "神話",
       "author": "Thor",
-      "expressedDate": "2020-05-05",
-      "totalExpose": "500",
-      "totalClicks": "1500",
-      "adsProfit": "40000",
-      "platformProfit": "10000",
-      "authorProfit": "30000",
-      "mediaProfit": "20000",
-      "advancedOption": "結算"
+      "releaseDate": "20201213",
+      "status": "可改標&內容",
+      "limited": "關鍵評論網"
     },
     {
-      "title": "百分百命中紅心",
-      "author": "Clint",
-      "expressedDate": "2020-06-06",
-      "totalExpose": "2500",
-      "totalClicks": "8500",
-      "adsProfit": "34000",
-      "platformProfit": "4000",
-      "authorProfit": "20000",
-      "mediaProfit": "10000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "量子位移",
-      "author": "Vision",
-      "expressedDate": "2020-07-07",
-      "totalExpose": "12500",
-      "totalClicks": "18500",
-      "adsProfit": "54000",
-      "platformProfit": "14000",
-      "authorProfit": "30000",
-      "mediaProfit": "10000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "無限想像力",
-      "author": "Wanda",
-      "expressedDate": "2020-08-08",
-      "totalExpose": "42500",
-      "totalClicks": "68500",
-      "adsProfit": "82000",
-      "platformProfit": "12000",
-      "authorProfit": "50000",
-      "mediaProfit": "20000",
-      "advancedOption": "結算"
-    },
-    {
-      "title": "分散式管理",
+      "title": "分享秘密不見得是好事",
+      "belongToArticle": "如何當主管",
+      "category": "管理",
       "author": "Fury",
-      "expressedDate": "2020-09-09",
-      "totalExpose": "12500",
-      "totalClicks": "45000",
-      "adsProfit": "31000",
-      "platformProfit": "11000",
-      "authorProfit": "10000",
-      "mediaProfit": "10000",
-      "advancedOption": "結算"
+      "releaseDate": "20201212",
+      "status": "可改標",
+      "limited": "104職涯診所"
     },
     {
-      "title": "詐欺師的最高境界",
-      "author": "Loki",
-      "expressedDate": "2020-10-10",
-      "totalExpose": "52500",
-      "totalClicks": "55000",
-      "adsProfit": "51600",
-      "platformProfit": "11600",
-      "authorProfit": "30000",
-      "mediaProfit": "10000",
-      "advancedOption": "結算"
+      "title": "如何不生氣",
+      "belongToArticle": "情緒管理",
+      "category": "心理學",
+      "author": "Bruce",
+      "releaseDate": "20201211",
+      "status": "可改標",
+      "limited": "今周刊"
+    },
+    {
+      "title": "手握金湯匙",
+      "belongToArticle": "財富管理",
+      "category": "理財",
+      "author": "Tony",
+      "releaseDate": "20201210",
+      "status": "轉載",
+      "limited": "故事"
+    }
+  ],
+  "beenExpressedList": [
+    {
+      "usedDate": "20201201",
+      "usedMedia": "風傳媒",
+      "usedTitle": "二戰老兵的回憶錄",
+      "belongToArticle": "史蒂夫羅傑斯個人傳記",
+      "package": "單次",
+      "releaseDate": "20201214",
+      "statusWhenUsed": "不可修改",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    },
+    {
+      "usedDate": "20201202",
+      "usedMedia": "蘋果日報",
+      "usedTitle": "如何不生氣",
+      "belongToArticle": "情緒管理",
+      "package": "訂閱",
+      "releaseDate": "20201215",
+      "statusWhenUsed": "可修改",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    },
+    {
+      "usedDate": "20201201",
+      "usedMedia": "關鍵評論網",
+      "usedTitle": "輻射的危險",
+      "belongToArticle": "布魯斯的實驗室",
+      "package": "免費",
+      "releaseDate": "20201216",
+      "statusWhenUsed": "可改標",
+      "usedAtUrl": "http://example.com",
+      "otherOption": "申訴"
+    }
+  ],
+  "profit": [
+    {
+      "usedDate": "20201201",
+      "usedMedia": "蘋果日報",
+      "usedTitle": "二戰老兵的回憶錄",
+      "profit": "500"
+    },
+    {
+      "usedDate": "20201202",
+      "usedMedia": "風傳媒",
+      "usedTitle": "如何不生氣",
+      "profit": "700"
+    },
+    {
+      "usedDate": "20201203",
+      "usedMedia": "關鍵評論網",
+      "usedTitle": "輻射的危險",
+      "profit": "200"
+    },
+    {
+      "usedDate": "20201204",
+      "usedMedia": "今周刊",
+      "usedTitle": "理財好處多",
+      "profit": "600"
+    },
+    {
+      "usedDate": "20201205",
+      "usedMedia": "故事",
+      "usedTitle": "月球登陸",
+      "profit": "1500"
+    }
+  ],
+  "changeRecord": [
+    {
+      "changeDate": "2020-08-20",
+      "changeSubject": "變更直送文章授權範圍",
+      "title": "二戰老兵的回憶錄",
+      "changeContent": "同意轉載,僅能修改標題,不可修改內容"
+    },
+    {
+      "changeDate": "2020-08-21",
+      "changeSubject": "變更授權媒體",
+      "title": "來自阿斯嘉的神諭",
+      "changeContent": "屏蔽 今周刊"
+    },
+    {
+      "changeDate": "2020-08-22",
+      "changeSubject": "直送中文章申訴",
+      "title": "分享秘密不見得是好事",
+      "changeContent": "屏蔽 關鍵評論網"
+    },
+    {
+      "changeDate": "2020-08-23",
+      "changeSubject": "加入方格子直送計畫",
+      "title": "如何不生氣",
+      "changeContent": "加入成功"
     }
   ]
 }
